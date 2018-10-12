@@ -1,4 +1,4 @@
-# Cypress Docker Images  Sandeep
+# Cypress Docker Images
 
 These images provide all of the required dependencies for running Cypress in Docker.
 
